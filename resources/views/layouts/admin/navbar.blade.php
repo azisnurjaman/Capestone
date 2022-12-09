@@ -5,8 +5,11 @@
                 <div class="horizontal-menu">
                     <nav>
                         <ul id="nav_menu">
-                            <li class="active">
+                            <li class="{{ (request()->is('admin/dashboard')) ? 'active' : '' }}">
                                 <a href="/admin/dashboard"><i class="ti-dashboard"></i><span>Dashboard</span></a>
+                            </li>
+                            <li class="{{ (request()->is('admin/laporan')) ? 'active' : '' }}">
+                                <a href="/admin/laporan"><i class="ti-file"></i><span>Laporan</span></a>
                             </li>
                         </ul>
                     </nav>
