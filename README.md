@@ -4,6 +4,7 @@
 <p>Cat Patron adalah sebuah website untuk melaporkan dan menyelamatkan kucing yang terlantar di tempat tinggal kamu. Di website ini juga terdapat edukasi dalam merawat kucing dan juga membuka program adopsi untuk kucing yang sudah sehat dari terakhir di selamatkan.</p>
 
 Demo website: https://sib-catpatron.000webhostapp.com/
+untuk admin page tinggal tambahkan admin/dashboard pada akhir url website : https://sib-catpatron.000webhostapp.com/admin/dashboard
 
 ## Instalasi Local
 
