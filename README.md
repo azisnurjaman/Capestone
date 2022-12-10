@@ -1,10 +1,7 @@
 <p align="center"><img src="https://laravel.com/img/logotype.min.svg" width="400"></p>
 
 ## Cat Patron
-
-Aplikasi ini adalah tugas besar untuk menyelesaikan Pemrograman Web II.
-
-Daftar/Register admin dengan url /register-admin. Secret key dapat diubah di env atau default "Secret123".
+<p>Cat Patron adalah sebuah website untuk melaporkan dan menyelamatkan kucing yang terlantar di tempat tinggal kamu. Di website ini juga terdapat edukasi dalam merawat kucing dan juga membuka program adopsi untuk kucing yang sudah sehat dari terakhir di selamatkan.</p>
 
 Demo website: https://sib-catpatron.000webhostapp.com/
 
