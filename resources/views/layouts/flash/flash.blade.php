@@ -31,7 +31,7 @@
 <script>
     @if(count($errors) > 0)
     @if($message = Session::get('errors'))
-    @foreach($errors -> all() as $error)
+    @foreach($errors - > all() as $error)
     toastr.warning("{{Session::get('Perhatian','Data sudah ada')}}");
     @endforeach
     @endif
